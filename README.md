@@ -9,14 +9,10 @@ Hello World<br>Call me by Sk4vac or Jiwa<br>12th Grade Computer & Network Engine
 ![](https://streak-stats.demolab.com/?user=sk4vac&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=sk4vac&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sk4vac&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=sk4vac&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
