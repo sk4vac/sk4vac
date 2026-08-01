@@ -9,8 +9,6 @@ Hello World<br>Call me by Sk4vac or Jiwa<br>12th Grade Computer & Network Engine
 ![](https://streak-stats.demolab.com/?user=sk4vac&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=sk4vac&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-![Snake animation](https://github.com/sk4vac/sk4vac/blob/output/github-contribution-grid-snake.svg)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
