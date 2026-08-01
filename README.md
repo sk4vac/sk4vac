@@ -19,6 +19,5 @@ Hello World<br>Call me by Sk4vac or Jiwa<br>12th Grade Computer & Network Engine
 ![](https://github-contributor-stats.vercel.app/api?username=sk4vac&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=sk4vac&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
