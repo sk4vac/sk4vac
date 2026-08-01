@@ -1,6 +1,9 @@
 # 💫 About Me:
 **Hello World**
 
+<img width="374" height="211" alt="vinland-saga-thorfinn" src="https://github.com/user-attachments/assets/415ad422-20c3-45ae-a2dc-b3ae06d8129d" />
+
+
 <br>👤 Call me by Sk4vac or Jiwa<br>📚 12th Grade Computer & Network Engineering Student in Vocational School<br>💻 IT Enthusiast<br>👨‍💻 Cybersecurity Enthusiast<br>🤖 AI Enthusiast
 
 
